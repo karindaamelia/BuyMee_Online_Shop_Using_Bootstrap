@@ -1,0 +1,79 @@
+* {
+	text-decoration: none;
+}
+
+.nav-item {
+	font-size: 18px;
+}
+
+.kategorii {
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.container .kategori, .container .terlaris{
+	border: 3px solid green;
+}
+
+.terlariss:link {
+	font-weight: bolder;
+	font-size: 22px;
+	text-align: center;
+	color: black;
+	text-decoration: none;
+}
+
+.cardproduk:hover {
+	border: 3px solid green;
+}
+
+.produk:link {
+	color: green;
+	text-decoration: none;
+	font-weight: bolder;
+	font-size: 17px;
+}
+
+.produk:hover {
+	color: black;
+	text-decoration: none;
+	font-weight: bolder;
+}
+
+.harga {
+	color: green;
+	font-weight: bold;
+}
+
+
+.list:link{
+	text-decoration: none;
+	color: black;
+}
+
+.lebihbanyak:link {
+	font-weight: bold;
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+}
+
+.lebihbanyak:hover {
+	color: white;
+}
+
+.footer {
+	font-weight: bold;
+}
+
+.footer1{
+	height: 80px;
+	text-align: center;
+	color: white;
+	line-height: 80px;
+	font-family: cambria;
+	font-size: 22px;
+	font-weight: bold;
+}
+
